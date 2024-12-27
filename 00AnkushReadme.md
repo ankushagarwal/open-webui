@@ -5,7 +5,7 @@ https://docs.openwebui.com/getting-started/advanced-topics/development
 ## Common Setup
 
 ```
-cp -RPp .env.example .env
+cp -RPp .envankush .env
 ```
 
 ## Frontend Setup
