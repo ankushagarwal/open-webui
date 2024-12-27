@@ -21,4 +21,10 @@ source ~/miniconda3/bin/activate
 conda create --name open-webui python=3.11
 conda activate open-webui
 pip install -r requirements.txt -U
+sh dev.sh
+```
+
+## Run
+```
+./ankushrun.sh
 ```

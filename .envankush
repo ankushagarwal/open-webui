@@ -1,9 +1,15 @@
+# https://docs.openwebui.com/getting-started/advanced-topics/env-configuration#general
+# config.py
+
+WEBUI_AUTH=false
+
 # Ollama URL for the backend to connect
 # The path '/ollama' will be redirected to the specified backend URL
+ENABLE_OLLAMA_API=false
 # OLLAMA_BASE_URL='http://localhost:11434'
 
 # OPENAI_API_BASE_URL=''
-OPENAI_API_KEY='XXXXXXXXXXXXXXXXXXXXXXXX'
+OPENAI_API_KEY='xxxxx'
 
 # AUTOMATIC1111_BASE_URL="http://localhost:7860"
 
